@@ -1,0 +1,2 @@
+default["ZABBIX_PASSWORD"] = ENV["ZABBIX_PASSWORD"]
+
